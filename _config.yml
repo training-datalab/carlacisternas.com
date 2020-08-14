@@ -2,18 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: You R. Name
-email: you@example.com
+title: Carla Cisternas
+email: carla.cisternas@usach.cl
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url: https://summertown-lab.github.io
 baseurl: /test/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -120,7 +119,7 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
+  last_name: González-Bustamante
 
   style: apa
   locale: en
