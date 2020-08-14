@@ -11,7 +11,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 url: https://summertown-lab.github.io
-baseurl: /test/
+baseurl: /test
 last_updated: true
 
 # -----------------------------------------------------------------------------
@@ -35,7 +35,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: carlacisternasg
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
