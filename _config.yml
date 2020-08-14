@@ -47,7 +47,7 @@ research_gate_profile: https://www.researchgate.net/profile/Carla_Cisternas3
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Please email me to get in touch.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -119,7 +119,7 @@ plugins:
 
 scholar:
 
-  last_name: González-Bustamante
+  last_name: Einstein
 
   style: apa
   locale: en
