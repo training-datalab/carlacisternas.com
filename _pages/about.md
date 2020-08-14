@@ -5,7 +5,7 @@ permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: carlacisternasg.jpg
   address: >
     <p></p>
