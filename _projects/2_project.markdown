@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: CPS-Ranking
+description: Collaborator
+img: /assets/img/cps-ranking.png
+redirect: http://users.ox.ac.uk/~shil5311/ranking/
 importance: 2
 ---
 
