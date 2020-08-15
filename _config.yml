@@ -37,8 +37,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: carlacisternasg
 twitter_username: carlacisternasg
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+linkedin_username: # 
+scholar_userid: # 
 orcid_id: 0000-0001-7948-6194
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -80,7 +80,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 3
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
