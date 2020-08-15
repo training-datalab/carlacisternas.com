@@ -40,11 +40,11 @@ twitter_username: carlacisternasg
 linkedin_username: # 
 scholar_userid: # 
 orcid_id: 0000-0001-7948-6194
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: https://www.researchgate.net/profile/Carla_Cisternas3
-blogger_url: # your blogger URL
+medium_username: # 
+quora_username: # 
+publons_id: # 
+research_gate_profile: Carla_Cisternas3
+blogger_url: # 
 
 contact_note: >
   Please email me to get in touch.
@@ -55,7 +55,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+blog_name: # blog 
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
