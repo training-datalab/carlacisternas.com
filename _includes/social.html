@@ -1,10 +1,10 @@
 <span class="contact-icon text-center">
   <a href="mailto:{{ site.email | encode_email }}"><span style="color: coral;"><i class="fas fa-envelope"></span></i></a>
-  {% if site.orcid_id %}<a href="https://orcid.org/{{ site.orcid_id }}" target="_blank" title="ORCID"><span style="color: paleGreen;"><i class="ai ai-orcid"></i></span></a>{% endif %}
+  {% if site.orcid_id %}<a href="https://orcid.org/{{ site.orcid_id }}" target="_blank" title="ORCID"><span style="color: lightGreen;"><i class="ai ai-orcid"></i></span></a>{% endif %}
   <a href="https://osf.io/xkhdn/" target="_blank" title="OSF Profile"><span style="color: lightskyBlue;"><i class="ai ai-osf"></i></span></a>
   {% if site.scholar_userid %}<a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>{% endif %}
   {% if site.publons_id %}<a href="https://publons.com/a/{{ site.publons_id }}/" target="_blank" title="Publons"><i class="ai ai-publons"></i></a>{% endif %}
-  {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" target="_blank" title="GitHub"><span style="color: hotPink;"><i class="fab fa-github"></i></span></a>{% endif %}
+  {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" target="_blank" title="GitHub"><span style="color: lightPink;"><i class="fab fa-github"></i></span></a>{% endif %}
   {% if site.research_gate_profile %}<a href="https://www.researchgate.net/profile/{{site.research_gate_profile}}/" target="_blank" title="ResearchGate"><span style="color: plum;"><i class="ai ai-researchgate"></i></span></a>{% endif %}
   {% if site.linkedin_username %}<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>{% endif %}
   <a href="https://www.instagram.com/carlacisternasg/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
