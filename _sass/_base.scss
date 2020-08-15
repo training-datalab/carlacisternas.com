@@ -48,8 +48,8 @@ a, table.table a {
 // Navbar customization
 
 .navbar {
-  box-shadow: #ffe4e1;
-  border-bottom: 1px solid $grey-color-light;
+  box-shadow: none;
+  border-bottom: 1px solid $pink-color;
   opacity: 0.95;
 }
 .navbar.navbar-light {
@@ -148,8 +148,8 @@ a, table.table a {
 // Footer
 
 footer.fixed-bottom {
-  color: lighten($grey-color, 25%);
-  background-color: $grey-color-dark;
+  color: lighten($pink-color-light, 25%);
+  background-color: $pink-color;
   font-size: 0.75rem;
   .container {
     padding-top: 9px;
