@@ -1,0 +1,18 @@
+# Changelog
+All notable changes to "carlacisternas.com personal page" will be documented in this file.
+
+## [Unreleased]
+
+## [Released]
+
+## [1.0.0] - 2020-08-15
+### Added
+- DNS domain redirections.
+- Changelog in TXT format at GitHub repository.
+### Changed
+- CSS and social icons.
+
+## [0.1.0] - 2020-08-14
+### Added
+- GitHub repository.
+- GitHub page powered by Jekyll.
