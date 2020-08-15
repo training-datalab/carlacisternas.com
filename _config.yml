@@ -8,8 +8,8 @@ description: > # this means to ignore newlines until "url:"
   MA in Political Science student (viva voce expected this 2020) in the Institute for Public Affairs at the Universidad de Chile.
 footer_text: >
 
-url: https://summertown-lab.github.io
-baseurl: /carlacisternas.com
+url: https://carlacisternas.com
+baseurl: /
 last_updated: true
 
 # -----------------------------------------------------------------------------
