@@ -7,6 +7,7 @@ email: carla.cisternas@usach.cl
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
+  Made with a lot of <i class="fas fa-heart"></i> | 
 
 url: https://summertown-lab.github.io
 baseurl: /test
