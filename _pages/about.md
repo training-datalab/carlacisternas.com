@@ -16,8 +16,6 @@ news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an MA in Political Science student (viva voce expected this 2020) in the Institute for Public Affairs at the Universidad de Chile. My thesis has been supported by the Chilean Formation of Advanced Human Capital Programme and focuses on the legislative networks in the Chilean congress during the democratic post-transition. Prior to starting my MA, I earned a BA (1st) in Public Administration from the Universidad de Santiago, where I worked as a teaching assistant.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I work as both research and editorial assistant in research projects funded by the Chilean National Agency for Research and Development and at the RGP journal, respectively. I am interested in legislative studies and Latin American congresses, technocracy, social network analysis, and mixed methods.
