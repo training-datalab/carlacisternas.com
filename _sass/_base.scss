@@ -149,7 +149,7 @@ a, table.table a {
 
 footer.fixed-bottom {
   color: lighten($grey-color, 25%);
-  background-color: $grey-color-dark;
+  background-color: $black;
   font-size: 0.75rem;
   .container {
     padding-top: 9px;
@@ -165,7 +165,7 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
-  border-top: 1px solid $pink-color-light;
+  border-top: 1px solid $grey-color-light;
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
