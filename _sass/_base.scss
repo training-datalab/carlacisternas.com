@@ -149,8 +149,8 @@ a, table.table a {
 
 footer.fixed-bottom {
   color: lighten($grey-color, 25%);
-  background-color: $black;
-  font-size: 0.75rem;
+  background-color: $grey-color-dark;
+  font-size: 0.95rem;
   .container {
     padding-top: 9px;
     padding-bottom: 8px;
