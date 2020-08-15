@@ -49,7 +49,7 @@ a, table.table a {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid $pink-color;
+  border-bottom: 1px solid $plum-color;
   opacity: 0.95;
 }
 .navbar.navbar-light {
@@ -148,8 +148,8 @@ a, table.table a {
 // Footer
 
 footer.fixed-bottom {
-  color: lighten($pink-color-light, 25%);
-  background-color: $pink-color;
+  color: lighten($plum-color, 25%);
+  background-color: $plum-color;
   font-size: 0.75rem;
   .container {
     padding-top: 9px;
