@@ -148,9 +148,9 @@ a, table.table a {
 // Footer
 
 footer.fixed-bottom {
-  color: lighten(lightPink, 25%);
-  background-color: pink;
-  font-size: 0.75rem;
+  color: lighten($lightPink, 25%);
+  background-color: $pink;
+  font-size: 1.75rem;
   .container {
     padding-top: 9px;
     padding-bottom: 8px;
