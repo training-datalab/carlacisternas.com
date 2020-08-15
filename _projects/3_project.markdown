@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
+description: Editorial Assistant at RGP
+img: /assets/img/logo-RGP.png
 redirect: https://unsplash.com
 importance: 3
 ---
