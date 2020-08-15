@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Revista de Gestión Pública
+title: RGP
 description: Editorial Assistant
 img: /assets/img/logo-RGP.png
 redirect: http://www.revistadegestionpublica.cl/index.php/rgp
