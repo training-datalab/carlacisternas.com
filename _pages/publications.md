@@ -12,7 +12,11 @@ nav: true
 
 <p align="justify">Barría, D., González-Bustamante, B., &amp; <strong>Cisternas, C.</strong> (2019). La literatura sobre gobierno abierto en español. Análisis sobre las dinámicas de producción y citación. <em>Nóesis. Revista de Ciencias Sociales y Humanidades, 28</em>(56), 22-42. DOI: <a href="http://doi.org/10.20983/noesis.2019.2.3" target="_blank"><strong>10.20983/noesis.2019.2.3</strong></a></p>
 
-<abbr class="badge">Nóesis. Revista de Ciencias Sociales y Humanidades</abbr>
+<div class="row">
+  <div class="col-sm-2 abbr">
+   <abbr class="badge"><a href="{http://doi.org/10.20983/noesis.2019.2.3" target="_blank">Nóesis</a></abbr>
+   <abbr class="badge">{Nóesis}</abbr>
+  </div>
 
 <h2 class="year">2018</h2>
 
