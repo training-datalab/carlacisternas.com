@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Revista de Gestión Pública
+description: Editorial Assistant
+img: /assets/img/logo-RGP.png
+redirect: http://www.revistadegestionpublica.cl/index.php/rgp
 importance: 1
 ---
 
