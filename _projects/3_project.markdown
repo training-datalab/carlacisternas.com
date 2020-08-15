@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
-description: Editorial Assistant at RGP
+title: Revista de Gestión Pública
+description: Editorial Assistant
 img: /assets/img/logo-RGP.png
-redirect: https://unsplash.com
-importance: 3
+redirect: http://www.revistadegestionpublica.cl/index.php/rgp
+importance: 1
 ---
 
 Every project has a beautiful feature showcase page.
