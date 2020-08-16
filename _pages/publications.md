@@ -8,6 +8,8 @@ nav: true
 
 <div class="publications">
 
+<p align="justify"><a href="https://franciscocastaneda.cl/" target="_blank">Castañeda F.</a>, Brown, E., Cloke, J., Gil, F. J., González, M., &amp; <strong>Cisternas, C.</strong> (2020). Social Inclusion: The Higher Education Sector in Chile and in the United Kingdom. <em>CIRIEC Working Papers</em>, (9), 1-30. URL: <a href="http://www.ciriec.uliege.be/wp-content/uploads/2020/07/WP2020-09.pdf" target="_blank"><strong>www.ciriec.uliege.be</strong></a></p>
+
 <p align="justify"><a href="https://www.researchgate.net/profile/Diego_Barria_Traverso" target="_blank">Barría, D.</a>, <a href="http://users.ox.ac.uk/~shil5311/" target="_blank">González-Bustamante, B.</a>, &amp; <strong>Cisternas, C.</strong> (2019). La literatura sobre gobierno abierto en español. Análisis sobre las dinámicas de producción y citación. <em>Nóesis. Revista de Ciencias Sociales y Humanidades, 28</em>(56), 22-42. DOI: <a href="http://doi.org/10.20983/noesis.2019.2.3" target="_blank"><strong>10.20983/noesis.2019.2.3</strong></a></p>
 
 <p align="justify"><strong>Cisternas, C.</strong>, &amp; Vásquez, J. (2018). Comisiones Asesoras Presidenciales: Entre la expertise y la pluralidad de actores sociales en Chile. <em>European Review of Latin American and Caribbean Studies</em>, (106), 1–22. DOI: <a href="https://doi.org/10.32992/erlacs.10349" target="_blank"><strong>10.32992/erlacs.10349</strong></a></p>
