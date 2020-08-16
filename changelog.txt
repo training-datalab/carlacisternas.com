@@ -5,6 +5,10 @@ All notable changes to "carlacisternas.com personal page" will be documented in 
 
 ## [Released]
 
+## [1.0.1] - 2020-08-16
+### Changed
+- Update of publications.
+
 ## [1.0.0] - 2020-08-15
 ### Added
 - DNS domain redirections.
