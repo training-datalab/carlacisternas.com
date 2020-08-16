@@ -16,6 +16,6 @@ nav: true
 
 <p align="justify"><a href="http://users.ox.ac.uk/~shil5311/" target="_blank">González-Bustamante, B.</a>, &amp; <strong>Cisternas, C.</strong> (2016). Élites políticas en el poder legislativo chileno: la Cámara de Diputados (1990-2014). <em>Política, Revista de Ciencia Política, 54</em>(1), 19-52. URL: <a href="https://revistapolitica.uchile.cl/index.php/RP/article/view/42691" target="_blank"><strong>https://revistapolitica.uchile.cl</strong></a></p>
 
-<p align="justify"><strong>Cisternas, C.</strong> (2016). Reseña Espinoza, F. (2015). Bolivia: La Circulación de sus Élites (2006-2014). Santa Cruz de la Sierra: Editorial El País. Revista de Gestión Pública, V(1), 143-152. URL: <a href="http://www.revistadegestionpublica.cl/index.php/rgp/article/view/70" target="_blank"><strong>www.revistadegestionpublica.cl</strong></a>
+<p align="justify"><strong>Cisternas, C.</strong> (2016). Reseña Espinoza, F. (2015). Bolivia: La Circulación de sus Élites (2006-2014). Santa Cruz de la Sierra: Editorial El País. <em>Revista de Gestión Pública, V</em>(1), 143-152. URL: <a href="http://www.revistadegestionpublica.cl/index.php/rgp/article/view/70" target="_blank"><strong>www.revistadegestionpublica.cl</strong></a></p>
 
 </div>
