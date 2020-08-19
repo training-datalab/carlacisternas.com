@@ -5,6 +5,12 @@ All notable changes to "carlacisternas.com personal page" will be documented in 
 
 ## [Released]
 
+## [1.1.1] - 2020-08-19
+### Added
+- CV in LuaLaTeX.
+### Changed
+- CSS and social icons.
+
 ## [1.0.1] - 2020-08-16
 ### Changed
 - Update of publications.
