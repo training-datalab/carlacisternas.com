@@ -8,7 +8,7 @@ profile:
   align: right
   image: carlacisternasg.jpg
   address: >
-    <p><a href="/CV-Carla-Cisternas.pdf">Curriculum Vitae</a></p>
+    <p></p>
     <p></p>
     <p></p>
 
