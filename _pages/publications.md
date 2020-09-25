@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Peer-reviewed articles.
+description: Peer-reviewed articles
 nav: true
 ---
 
@@ -16,9 +16,9 @@ nav: true
 
 </div>
 
-<p>Working papers</p>
-
 <div class="publications">
+
+<p>Working papers</p>
 
 <p align="justify"><a href="https://franciscocastaneda.cl/" target="_blank">Castañeda F.</a>, Brown, E., Cloke, J., Gil, F. J., González, M., &amp; <strong>Cisternas, C.</strong> (2020). Social Inclusion: The Higher Education Sector in Chile and in the United Kingdom. <em>CIRIEC Working Papers</em>, (9), 1-30. URL: <a href="http://www.ciriec.uliege.be/wp-content/uploads/2020/07/WP2020-09.pdf" target="_blank"><strong>www.ciriec.uliege.be</strong></a></p>
 
