@@ -5,6 +5,10 @@ All notable changes to "carlacisternas.com personal page" will be documented in 
 
 ## [Released]
 
+## [1.2.3] - 2020-09-26
+### Changed
+- GitHub page corrections.
+
 ## [1.2.2] - 2020-08-26
 ### Added
 - Badges in SVG at GitHub repository.
