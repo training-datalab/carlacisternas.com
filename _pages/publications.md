@@ -20,6 +20,8 @@ nav: true
 
 <p>Working papers</p>
 
+<p align="justify"><a href="http://users.ox.ac.uk/~shil5311/" target="_blank">González-Bustamante, B.</a>, &amp; <strong>Cisternas, C.</strong> (2020). Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continúo, para el estudio de las élites. <em>Tufte Working Papers<em>, (1), 1-15. URL: <a href="https://tuftepapers.com/2020/09/aplicacion-de-ForceAtlas2-algoritmo-de-diseno-grafico.html" target="_blank">https://tuftepapers.com</a></p>
+
 <p align="justify"><a href="https://franciscocastaneda.cl/" target="_blank">Castañeda F.</a>, Brown, E., Cloke, J., Gil, F. J., González, M., &amp; <strong>Cisternas, C.</strong> (2020). Social Inclusion: The Higher Education Sector in Chile and in the United Kingdom. <em>CIRIEC Working Papers</em>, (9), 1-30. URL: <a href="http://www.ciriec.uliege.be/wp-content/uploads/2020/07/WP2020-09.pdf" target="_blank"><strong>www.ciriec.uliege.be</strong></a></p>
 
 <p align="justify"><strong>Cisternas, C.</strong> (2016). Reseña Espinoza, F. (2015). Bolivia: La Circulación de sus Élites (2006-2014). Santa Cruz de la Sierra: Editorial El País. <em>Revista de Gestión Pública, V</em>(1), 143-152. URL: <a href="http://www.revistadegestionpublica.cl/index.php/rgp/article/view/70" target="_blank"><strong>www.revistadegestionpublica.cl</strong></a></p>
