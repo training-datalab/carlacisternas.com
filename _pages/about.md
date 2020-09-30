@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: MA (1st) in Political Science from the Institute for Public Affairs at the Universidad de Chile.
+description: I hold an MA (1st) in Political Science from the Institute for Public Affairs at the Universidad de Chile.
 
 profile:
   align: right
