@@ -20,7 +20,7 @@ nav: true
 
 <p>Working papers</p>
 
-<p align="justify"><a href="http://users.ox.ac.uk/~shil5311/" target="_blank">González-Bustamante, B.</a>, &amp; <strong>Cisternas, C.</strong> (2020). Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continúo, para el estudio de las élites. <em>Tufte Working Papers</em>, (1), 1-15. URL: <a href="https://tuftepapers.com/2020/09/aplicacion-de-ForceAtlas2-algoritmo-de-diseno-grafico.html" target="_blank">https://tuftepapers.com</a></p>
+<p align="justify"><a href="http://users.ox.ac.uk/~shil5311/" target="_blank">González-Bustamante, B.</a>, &amp; <strong>Cisternas, C.</strong> (2020). Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continúo, para el estudio de las élites. <em>Tufte Working Papers</em>, (1), 1-15. URL: <a href="https://tuftepapers.com/2020/09/aplicacion-de-ForceAtlas2-algoritmo-de-diseno-grafico.html" target="_blank"><strong>https://tuftepapers.com</strong></a></p>
 
 <p align="justify"><a href="https://franciscocastaneda.cl/" target="_blank">Castañeda F.</a>, Brown, E., Cloke, J., Gil, F. J., González, M., &amp; <strong>Cisternas, C.</strong> (2020). Social Inclusion: The Higher Education Sector in Chile and in the United Kingdom. <em>CIRIEC Working Papers</em>, (9), 1-30. URL: <a href="http://www.ciriec.uliege.be/wp-content/uploads/2020/07/WP2020-09.pdf" target="_blank"><strong>www.ciriec.uliege.be</strong></a></p>
 
