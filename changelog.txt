@@ -5,6 +5,10 @@ All notable changes to "carlacisternas.com personal page" will be documented in 
 
 ## [Released]
 
+## [1.2.4] - 2020-12-03
+### Changed
+- GitHub page corrections.
+
 ## [1.2.3] - 2020-09-26
 ### Changed
 - GitHub page corrections.
