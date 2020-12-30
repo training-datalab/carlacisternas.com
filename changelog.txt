@@ -5,6 +5,12 @@ All notable changes to "carlacisternas.com personal page" will be documented in 
 
 ## [Released]
 
+## [1.3.4] - 2020-12-30
+### Added
+- Social Sciences in Repression Project.
+### Changed
+- GitHub page corrections.
+
 ## [1.2.4] - 2020-12-03
 ### Changed
 - GitHub page corrections.
