@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Soc. Sci. in Repression
+title: Soc. Sci. Project
 description: Researcher
 img: /assets/img/cieplan-network.jpg
 redirect: https://bgonzalezbustamante.com/credit/social-sciences-in-repression/
