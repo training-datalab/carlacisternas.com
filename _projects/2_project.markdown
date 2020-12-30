@@ -3,7 +3,7 @@ layout: page
 title: CPS-Ranking
 description: Collaborator
 img: /assets/img/cps-ranking.png
-redirect: http://users.ox.ac.uk/~shil5311/ranking/
+redirect: https://bgonzalezbustamante.com/cps-ranking/
 importance: 2
 ---
 
