@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Social Sciences in Repression Contexts
+title: Soc. Sci. in Repression
 description: Researcher
 img: /assets/img/cieplan-network.jpg
 redirect: https://bgonzalezbustamante.com/credit/social-sciences-in-repression/
