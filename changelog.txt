@@ -6,6 +6,10 @@ Automatic updates: CV.
 
 ## [Released]
 
+## [1.3.6] - 2021-01-11
+### Changed
+- Update of profile.
+
 ## [1.3.5] - 2021-01-08
 ### Changed
 - Minor corrections.
