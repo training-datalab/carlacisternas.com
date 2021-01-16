@@ -4,7 +4,15 @@ Automatic updates: CV.
 
 ## [Unreleased]
 
+## [1.3.9] - TBC
+### Changed
+- Update of profile.
+
 ## [Released]
+
+## [1.3.8] - 2021-01-16
+### Changed
+- CSS and social icons.
 
 ## [1.3.7] - 2021-01-13
 ### Changed
