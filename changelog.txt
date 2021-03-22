@@ -4,11 +4,17 @@ Automatic updates: CV.
 
 ## [Unreleased]
 
-## [1.3.9] - TBC
+## [1.4.9] - TBC
 ### Changed
 - Update of profile.
 
 ## [Released]
+
+## [1.4.8] - 2021-03-22
+### Added
+- Training Data Lab Project.
+### Changed
+- Minor corrections.
 
 ## [1.3.8] - 2021-01-16
 ### Changed
