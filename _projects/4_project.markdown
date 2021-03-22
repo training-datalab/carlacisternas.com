@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Training-DataLab
+title: Data Lab
 description: Researcher
 img: /assets/img/data.jpg
 redirect: https://training-datalab.com/
