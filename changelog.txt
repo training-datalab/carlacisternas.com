@@ -10,7 +10,7 @@ Automatic updates: CV.
 
 ## [Released]
 
-## [1.4.8] - 2021-03-22
+## [1.4.8] - 2021-03-23
 ### Added
 - Training Data Lab Project.
 ### Changed
