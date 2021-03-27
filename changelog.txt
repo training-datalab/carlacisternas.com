@@ -4,11 +4,16 @@ Automatic updates: CV.
 
 ## [Unreleased]
 
-## [1.4.9] - TBC
+## [1.4.10] - TBC
 ### Changed
 - Update of profile.
 
 ## [Released]
+
+## [1.4.9] - 2021-03-27
+### Changed
+- Revision of upgrade versioning.
+- Minor corrections.
 
 ## [1.4.8] - 2021-03-23
 ### Added
@@ -48,7 +53,7 @@ Automatic updates: CV.
 
 ## [1.2.2] - 2020-08-26
 ### Added
-- Badges in SVG at GitHub repository.
+- Badges in SVG on GitHub repository.
 
 ## [1.1.2] - 2020-08-20
 ### Changed
@@ -67,7 +72,7 @@ Automatic updates: CV.
 ## [1.0.0] - 2020-08-15
 ### Added
 - DNS domain redirections.
-- Changelog in TXT format at GitHub repository.
+- Changelog in TXT format on GitHub repository.
 ### Changed
 - CSS and social icons.
 
