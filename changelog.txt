@@ -4,11 +4,11 @@ Automatic updates: CV.
 
 ## [Unreleased]
 
-## [1.4.10] - TBC
+## [Released]
+
+## [1.4.10] - 2021-03-28
 ### Changed
 - Update of profile.
-
-## [Released]
 
 ## [1.4.9] - 2021-03-27
 ### Changed
