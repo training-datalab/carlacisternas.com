@@ -6,6 +6,10 @@ Automatic updates: CV.
 
 ## [Released]
 
+## [1.4.12] - 2021-05-21
+### Changed
+- Repository organisation.
+
 ## [1.4.11] - 2021-03-30
 ### Changed
 - Minor corrections.
