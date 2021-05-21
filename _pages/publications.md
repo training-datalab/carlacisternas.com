@@ -8,7 +8,7 @@ nav: true
 
 <div class="publications">
 
-<p align="justify"><a href="https://franciscocastaneda.cl/" target="_blank">Castañeda, F.</a>, Ormazabal, F. &amp; <strong>Cisternas, C.<strong> (2022,  <em>forthcoming </em>). Socio-demographic Determinants of Financial Literacy Levels. <em>Studies in Business and Economics Journal, 17</em>(2).</p>
+<p align="justify"><a href="https://franciscocastaneda.cl/" target="_blank">Castañeda, F.</a>, Ormazabal, F. &amp; <strong>Cisternas, C.</strong> (2022,  <em>forthcoming </em>). Socio-demographic Determinants of Financial Literacy Levels. <em>Studies in Business and Economics Journal, 17</em>(2).</p>
 
 <p align="justify"><a href="https://www.researchgate.net/profile/Diego_Barria_Traverso" target="_blank">Barría, D.</a>, <a href="https://bgonzalezbustamante.com/" target="_blank">González-Bustamante, B.</a>, &amp; <strong>Cisternas, C.</strong> (2019). La literatura sobre gobierno abierto en español. Análisis sobre las dinámicas de producción y citación. <em>Nóesis. Revista de Ciencias Sociales y Humanidades, 28</em>(56), 22-42. DOI: <a href="http://doi.org/10.20983/noesis.2019.2.3" target="_blank"><strong>10.20983/noesis.2019.2.3</strong></a></p>
 
