@@ -1,6 +1,6 @@
 # Changelog
 All notable changes to "carlacisternas.com personal page" will be documented in this file.
-Automatic updates: CV.
+Automatic updates: Publications, CV.
 
 ## [Unreleased]
 
@@ -10,6 +10,7 @@ Automatic updates: CV.
 ### Changed
 - Repository organisation.
 - Minor corrections.
+- Automatic publications updates.
 
 ## [1.4.11] - 2021-03-30
 ### Changed
