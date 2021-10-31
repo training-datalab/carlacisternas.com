@@ -13,6 +13,7 @@ Automatic updates: Publications, CV.
 ## [1.4.14] - 2021-10-22
 ### Changed
 - Revision of upgrade versioning.
+- Changelog in MD format on GitHub repository.
 
 ## [1.4.13] - 2021-09-17
 ### Changed
