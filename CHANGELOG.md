@@ -4,9 +4,13 @@ Automatic updates: Publications, CV.
 
 ## [Unreleased]
 
-## [1.4.15] - TBC
+## [1.4.16] - TBC
 ### Changed
 - Scripts and folders names standardisation.
+
+## [1.4.15] - 2021-10-31
+### Changed
+- Minor corrections.
 
 ## [Released]
 
@@ -102,5 +106,6 @@ Automatic updates: Publications, CV.
 ## [0.1.0] - 2020-08-14
 ### Added
 - GitHub repository.
+- README in MD format on GitHub repository.
 - GitHub page powered by Jekyll.
 - MIT License
