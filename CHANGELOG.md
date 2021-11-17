@@ -4,11 +4,17 @@ Automatic updates: Publications, CV.
 
 ## [Unreleased]
 
-## [1.4.17] - TBC
+## [1.5.17] - TBC
 ### Changed
 - Scripts and folders names standardisation.
 
 ## [Released]
+
+## [1.5.16] - 2021-11-17
+### Added
+- Repository status badge.
+### Changed
+- Minor corrections.
 
 ## [1.4.16] - 2021-11-07
 ### Changed
