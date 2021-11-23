@@ -4,11 +4,15 @@ Automatic updates: Publications, CV.
 
 ## [Unreleased]
 
-## [1.5.17] - TBC
+## [1.5.18] - TBC
 ### Changed
 - Scripts and folders names standardisation.
 
 ## [Released]
+
+## [1.5.17] - 2021-11-23
+### Changed
+- Minor corrections.
 
 ## [1.5.16] - 2021-11-17
 ### Added
