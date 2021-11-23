@@ -10,6 +10,8 @@ nav: true
 
 <p align="justify"><a href="https://www.researchgate.net/profile/Francisco-Castaneda-5" target="_blank">Castañeda, F.</a>, Ormazabal, F. &amp; <strong>Cisternas, C.</strong> (2022, <em>forthcoming</em>). Socio-Demographic Determinants of Financial Literacy Levels. <em>Studies in Business and Economics Journal, 17</em>(2).</p>
 
+<p align="justify"><strong>Cisternas, C.</strong> (2021). Estrategias de copatrocinio legislativo en la Cámara de Diputados de Chile, 2010-2018. <em>Revista de Estudios Políticos</em>, 194, 249-279. DOI: <a href="https://doi.org/10.18042/cepc/rep.194.09" target="_blank"><strong>10.18042/cepc/rep.194.09</strong></a></p>
+
 <p align="justify"><a href="https://www.researchgate.net/profile/Diego_Barria_Traverso" target="_blank">Barría, D.</a>, <a href="https://bgonzalezbustamante.com/" target="_blank">González-Bustamante, B.</a>, &amp; <strong>Cisternas, C.</strong> (2019). La literatura sobre gobierno abierto en español. Análisis sobre las dinámicas de producción y citación. <em>Nóesis. Revista de Ciencias Sociales y Humanidades, 28</em>(56), 22-42. DOI: <a href="http://doi.org/10.20983/noesis.2019.2.3" target="_blank"><strong>10.20983/noesis.2019.2.3</strong></a></p>
 
 <p align="justify"><strong>Cisternas, C.</strong>, &amp; Vásquez, J. (2018). Comisiones Asesoras Presidenciales: Entre la expertise y la pluralidad de actores sociales en Chile. <em>European Review of Latin American and Caribbean Studies</em>, 106, 1–22. DOI: <a href="https://doi.org/10.32992/erlacs.10349" target="_blank"><strong>10.32992/erlacs.10349</strong></a></p>
