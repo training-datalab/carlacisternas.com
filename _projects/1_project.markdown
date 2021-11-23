@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RGP
-description: Editorial Assistant
+description: Associate Editor
 img: /assets/img/logo-RGP.png
 redirect: http://www.revistadegestionpublica.cl/
 importance: 5
