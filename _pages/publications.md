@@ -28,6 +28,6 @@ nav: true
 
 <p align="justify"><a href="https://www.researchgate.net/profile/Francisco-Castaneda-5" target="_blank">Castañeda F.</a>, Brown, E., Cloke, J., Gil, F. J., González, M., &amp; <strong>Cisternas, C.</strong> (2020). Social Inclusion: The Higher Education Sector in Chile and in the United Kingdom. <em>CIRIEC Working Papers</em>, 9, 1-30. URL: <a href="http://www.ciriec.uliege.be/wp-content/uploads/2020/07/WP2020-09.pdf" target="_blank"><strong>www.ciriec.uliege.be</strong></a></p>
 
-<p align="justify"><strong>Cisternas, C.</strong> (2016). Reseña Espinoza, F. (2015). Bolivia: La Circulación de sus Élites (2006-2014). Santa Cruz de la Sierra: Editorial El País. <em>Revista de Gestión Pública, V</em>(1), 143-152. URL: <a href="http://www.revistadegestionpublica.cl/index.php/rgp/article/view/70" target="_blank"><strong>www.revistadegestionpublica.cl</strong></a></p>
+<p align="justify"><strong>Cisternas, C.</strong> (2016). Reseña Espinoza, F. (2015). Bolivia: La Circulación de sus Élites (2006-2014). Santa Cruz de la Sierra: Editorial El País. <em>Revista de Gestión Pública, V</em>(1), 143-152. URL: <a href="https://revistas.uv.cl/index.php/rgp/article/view/2229/2182" target="_blank"><strong>https://revistas.uv.cl</strong></a></p>
 
 </div>
