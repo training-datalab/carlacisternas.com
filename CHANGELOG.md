@@ -122,4 +122,4 @@ Automatic updates: Publications, CV.
 - GitHub repository.
 - README in MD format on GitHub repository.
 - GitHub page powered by Jekyll.
-- MIT License
+- MIT license
