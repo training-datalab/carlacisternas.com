@@ -121,4 +121,4 @@ All notable changes to "carlacisternas.com personal page" will be documented in 
 - GitHub repository.
 - README in MD format on GitHub repository.
 - GitHub page powered by Jekyll.
-- MIT license
+- MIT license on GitHub repository.
