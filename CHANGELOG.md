@@ -1,14 +1,13 @@
 # Changelog
-All notable changes to "carlacisternas.com personal page" will be documented in this file.
-Automatic updates: Publications, CV.
+All notable changes to "carlacisternas.com personal page" will be documented in this file. Automatic updates: Publications, CV.
 
 ## [Unreleased]
 
-## [1.5.18] - TBC
-### Changed
-- Scripts and folders names standardisation.
-
 ## [Released]
+
+## [1.5.18] - 2022-04-05
+### Changed
+- Minor corrections.
 
 ## [1.5.17] - 2021-11-23
 ### Changed
