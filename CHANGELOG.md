@@ -5,6 +5,11 @@ All notable changes to "carlacisternas.com personal page" will be documented in 
 
 ## [Released]
 
+## [1.5.19] - 2022-04-07
+### Changed
+- CSS and social icons.
+- Minor corrections.
+
 ## [1.5.18] - 2022-04-05
 ### Changed
 - Minor corrections.
