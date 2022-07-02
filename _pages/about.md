@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-<p align="justify">I am a PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at <a href="https://www.universiteitleiden.nl/" target="_blank">Leiden University</a>, Netherlands. I am also a Lecturer at the <a href="https://www.umayor.cl/um/facultades/humanidades/10000" target="_blank">Faculty of Social Sciences and Arts</a> at the Universidad Mayor, Chile. </p>
+<p align="justify">I am a PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at <a href="https://www.universiteitleiden.nl/en" target="_blank">Leiden University</a>, Netherlands. I am also a Lecturer at the <a href="https://www.umayor.cl/um/facultades/facultad-de-ciencias-sociales-y-artes/10000" target="_blank">Faculty of Social Sciences and Arts</a> at the Universidad Mayor, Chile. </p>
 
 <p align="justify">I hold an MA (1st) in Political Science from the <a href="http://www.inap.uchile.cl/" target="_blank">Institute of Public Affairs</a>  at the Universidad de Chile. Moreover, I earned a BA (1st) and a BPS (1st) in Public Administration from the Universidad de Santiago.</p>
 
