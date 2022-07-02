@@ -8,6 +8,8 @@ nav: true
 
 <div class="publications">
 
+<p align="justify"><strong>Cisternas, C.</strong>, &amp; <a href="https://bgonzalezbustamante.com/" target="_blank">González-Bustamante, B.</a> (2022). Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989). <em>eCiencias de la Información 12</em>(2), 1-18. URL: <a href="https://revistas.ucr.ac.cr/index.php/eciencias/article/view/50078" target="_blank"><strong>https://revistas.ucr.ac.cr/index.php/eciencias</strong></a>. SocArXiv: URL: <a href="https://doi.org/10.31235/osf.io/2jrvm" target="_blank"><strong>10.31235/osf.io/2jrvm</strong></a></p>
+
 <p align="justify"><a href="https://www.researchgate.net/profile/Francisco-Castaneda-5" target="_blank">Castañeda, F.</a>, Ormazabal, F., &amp; <strong>Cisternas, C.</strong> (2022, <em>forthcoming</em>). Socio-Demographic Determinants of Financial Literacy Levels. <em>Studies in Business and Economics Journal, 17</em>(2).</p>
 
 <p align="justify"><strong>Cisternas, C.</strong> (2021). Estrategias de copatrocinio legislativo en la Cámara de Diputados de Chile, 2010-2018. <em>Revista de Estudios Políticos</em>, 194, 249-279. DOI: <a href="https://doi.org/10.18042/cepc/rep.194.09" target="_blank"><strong>10.18042/cepc/rep.194.09</strong></a></p>
