@@ -1,9 +1,17 @@
 # Changelog
-All notable changes to "carlacisternas.com personal page" will be documented in this file. Automatic updates: Publications, CV.
+All notable changes to "carlacisternas.com personal page" will be documented in this file. Automated updates: Publications, CV.
 
 ## [Unreleased]
 
 ## [Released]
+
+## [1.6.20] - 2023-03-04
+### Added
+- GA4 set up.
+### Changed
+- Badges in SVG on GitHub repository.
+- CSS and social icons.
+- Minor corrections.
 
 ## [1.5.20] - 2022-07-01
 ### Changed
