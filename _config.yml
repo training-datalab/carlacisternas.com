@@ -47,7 +47,8 @@ blogger_url: #
 contact_note: >
   Please reach me by email.
 
-google_analytics: 'UA-176052399-1'
+## google_analytics: 'UA-176052399-1'
+google_analytics: 'G-5TEFXBJR89'
 
 # -----------------------------------------------------------------------------
 # Blog
