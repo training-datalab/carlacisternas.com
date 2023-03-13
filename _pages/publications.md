@@ -8,9 +8,9 @@ nav: true
 
 <div class="publications">
 
-<p align="justify"><strong>Cisternas, C.</strong>, &amp; <a href="https://bgonzalezbustamante.com/" target="_blank">González-Bustamante, B.</a> (2022). Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989). <em>eCiencias de la Información 12</em>(2), 1-18. URL: <a href="https://revistas.ucr.ac.cr/index.php/eciencias/article/view/50078" target="_blank"><strong>https://revistas.ucr.ac.cr/index.php/eciencias</strong></a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/2jrvm" target="_blank"><strong>10.31235/osf.io/2jrvm</strong></a></p>
+<p align="justify"><strong>Cisternas, C.</strong>, &amp; <a href="https://bgonzalezbustamante.com/" target="_blank">González-Bustamante, B.</a> (2022). Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989). <em>eCiencias de la Información 12</em>(2), 1-18. DOI: <a href="https://doi.org/10.15517/eci.v12i2.50078" target="_blank"><strong>10.15517/eci.v12i2.50078</strong></a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/2jrvm" target="_blank"><strong>10.31235/osf.io/2jrvm</strong></a></p>
 
-<p align="justify"><a href="https://www.researchgate.net/profile/Francisco-Castaneda-5" target="_blank">Castañeda, F.</a>, Ormazabal, F., &amp; <strong>Cisternas, C.</strong> (2022, <em>forthcoming</em>). Socio-Demographic Determinants of Financial Literacy Levels. <em>Studies in Business and Economics Journal, 17</em>(2).</p>
+<p align="justify"><a href="https://www.researchgate.net/profile/Francisco-Castaneda-5" target="_blank">Castañeda, F.</a>, Ormazabal, F., &amp; <strong>Cisternas, C.</strong> (2022). Socio-Demographic Determinants of Financial Literacy Levels. <em>Studies in Business and Economics Journal, 17</em>(2), 44-61.DOI: <a href="https://doi.org/10.2478/sbe-2022-0024" target="_blank"><strong>10.2478/sbe-2022-0024</strong></a>.</p>
 
 <p align="justify"><strong>Cisternas, C.</strong> (2021). Estrategias de copatrocinio legislativo en la Cámara de Diputados de Chile, 2010-2018. <em>Revista de Estudios Políticos</em>, 194, 249-279. DOI: <a href="https://doi.org/10.18042/cepc/rep.194.09" target="_blank"><strong>10.18042/cepc/rep.194.09</strong></a></p>
 
@@ -30,6 +30,6 @@ nav: true
 
 <p align="justify"><a href="https://www.researchgate.net/profile/Francisco-Castaneda-5" target="_blank">Castañeda F.</a>, Brown, E., Cloke, J., Gil, F. J., González, M., &amp; <strong>Cisternas, C.</strong> (2020). Social Inclusion: The Higher Education Sector in Chile and in the United Kingdom. <em>CIRIEC Working Papers</em>, 9, 1-30. URL: <a href="http://www.ciriec.uliege.be/wp-content/uploads/2020/07/WP2020-09.pdf" target="_blank"><strong>www.ciriec.uliege.be</strong></a></p>
 
-<p align="justify"><strong>Cisternas, C.</strong> (2016). Reseña Espinoza, F. (2015). Bolivia: La Circulación de sus Élites (2006-2014). Santa Cruz de la Sierra: Editorial El País. <em>Revista de Gestión Pública, V</em>(1), 143-152. URL: <a href="https://revistas.uv.cl/index.php/rgp/article/view/2229/2182" target="_blank"><strong>https://revistas.uv.cl</strong></a></p>
+<p align="justify"><strong>Cisternas, C.</strong> (2016). Reseña Espinoza, F. (2015). Bolivia: La Circulación de sus Élites (2006-2014). Santa Cruz de la Sierra: Editorial El País. <em>Revista de Gestión Pública, V</em>(1), 143-152. DOI: <a href="https://doi.org/10.22370/rgp.2016.5.1.2229" target="_blank"><strong>10.22370/rgp.2016.5.1.2229</strong></a></p>
 
 </div>
