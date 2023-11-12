@@ -24,7 +24,9 @@ nav: true
 
 <div class="publications">
 
-<p>Working papers</p>
+<p>Working papers and book review</p>
+
+<p align="justify"><strong>Cisternas, C.</strong>, <a href="https://bgonzalezbustamante.com/" target="_blank">González-Bustamante, B.</a>, Morillo, J., &amp; Aguilar, D. (2023, <em>forthcoming</em>). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. <em>Tufte Working Papers</em>, 4.</p>
 
 <p align="justify"><a href="https://bgonzalezbustamante.com/" target="_blank">González-Bustamante, B.</a>, &amp; <strong>Cisternas, C.</strong> (2020). Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites. <em>Tufte Working Papers</em>, 1, 1-15. DOI: <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank"><strong>10.5281/zenodo.6739266</strong></a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank"><strong>10.31235/osf.io/gxrkc</strong></a>.</p>
 
